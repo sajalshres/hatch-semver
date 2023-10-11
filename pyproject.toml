@@ -10,7 +10,7 @@ name = "hatch-semver"
 description = "Hatch plugin for semver versioning scheme"
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.9"
+requires-python = ">=3.7"
 authors = [
     { name = "Sven Siegmund", email = "sven.siegmund@gmail.com" },
 ]
@@ -32,7 +32,7 @@ classifiers = [
     "Framework :: Hatch",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
-    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.7",
     "Operating System :: OS Independent",
     "Operating System :: Microsoft :: Windows",
     "Operating System :: POSIX :: Linux",
